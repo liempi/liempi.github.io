@@ -1,6 +1,4 @@
 title: Your Site Title
 description: A brief description of your site
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://liempi.github.io" # the base URL of your site
 theme: jekyll-theme-cayman
 
