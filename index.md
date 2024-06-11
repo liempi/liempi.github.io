@@ -2,6 +2,6 @@
 layout: default
 ---
 
-Galactic _nuclei_, computational astrophysics and super massive black holes!
+Galactic Nuclei, Supermassive Black Holes, Nuclear Star Clusters, and Computational Astrophysics.
 
 
