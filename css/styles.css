@@ -1,0 +1,92 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    background-color: black;
+    background-image: url('../assets/images/NGC5793.jpg') ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    color: white;
+    font-size: xx-large;
+    font-family: Arial;
+    text-align: center;
+
+}
+
+p {
+    color:white;
+    font-size: large;
+    font-family: Arial;
+    text-align: center;
+    background-color: none;
+}
+
+a {
+    color: white;
+    font-size: xx-large;
+    font-family: Arial;
+}
+
+/* Home button styles */
+#homeButton {
+    padding: 15px 20px;
+    border-radius: 0px;
+    border: 0px;
+    display: inline-block;
+    font-size: 18px;
+    font-family: Arial;
+    cursor: pointer;
+    background-color: rgba(5, 51, 50, 0);
+    color: white;
+    text-align: left;
+  }
+  
+  /* Hidden menu (additional buttons) */
+  #homeMenu {
+    position: absolute ;
+    margin-top: 20 px;
+    text-align: left;
+    color: black;
+    opacity: 1;
+  }
+  
+  .menuLink {
+    display: block;
+    margin: 10px 0;
+    padding: 10px 10px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: rgba(5, 51, 50, 0);
+    opacity: 1;
+    color: white;
+    border-radius: 5px;
+    opacity: 0; /* Initially hidden */
+    transition: opacity 1s ease; /* Fade-in effect */
+  }
+  
+  .menuLink:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Show the links when home button is clicked */
+  .show .menuLink {
+    opacity: 1; /* Fully visible */
+  }
+
+  .shaded{
+        display: inline-block;
+        padding: 10px;
+        border-radius: 10px;
+        background: rgba(64, 111, 117, 0.311);
+        text-align: center;
+        position: absolute;
+        top: 10%;
+        left: 20%;
+  }
