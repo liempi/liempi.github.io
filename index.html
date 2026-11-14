@@ -20,6 +20,7 @@
 			 <link rel="stylesheet" href="assets/css/my-new-css-file.css"/> 
 		-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+			<link rel="stylesheet" href="assets/css/publications.css" />
 		<!-- 	In the case that the user's browser does not support JavaScript (unlikely, but possible), the page
 			will load a separate set of CSS stylings from the file assets/css/noscript.css
 			Any HTML contained inside <noscript></noscript> tags will be loaded in the event that JavaScript is not
@@ -115,6 +116,13 @@
 						<article id="publications">
 							<h2 class="major">Publications</h2>
 
+							<p class="pub-intro">Synced automatically with NASA/ADS. <span id="pub-stats"></span></p>
+
+							<div id="pub-root" data-publications="data/publications.json" data-summaries="data/summaries.json">
+								<div id="pub-list"></div>
+								<!-- Static fallback: shown only if data/publications.json cannot be loaded -->
+								<div id="pub-fallback">
+
 							<h3 class="major">First author</h3>
 								<p>
 									<ul>
@@ -160,6 +168,9 @@
 										<li><a href="https://ui.adsabs.harvard.edu/abs/2024BAAA...65..205L/abstract"> Formation of supermassive black holes in galaxies through collisions in Nuclear Star Clusters</a></li>	
 								</ul>
 							</p>
+								</div>
+							</div>
+
 							<h2 class="major">Teaching/Tutoring</h2>
 								<ul>
 									<li>Theoretical and computational astronomy Tutoring, Universidad de Concepción, July-November, 2024.
@@ -424,6 +435,8 @@
 			<script src="assets/js/main.js"></script>
 			<!-- MathJax for LaTeX rendering -->
 			<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+				<!-- Publications list, loaded from data/publications.json (NASA/ADS) -->
+				<script src="assets/js/publications.js"></script>
 
 	</body>
 </html>
