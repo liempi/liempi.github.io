@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-14T17:31:03Z",
- "source": "initial seed (arXiv + ADS bibcodes); replaced on the first ADS update",
+ "generated": "2026-11-14T18:34:18Z",
+ "source": "NASA/ADS",
  "ads_query_url": "https://ui.adsabs.harvard.edu/search/q=author%3A%22Liempi%2C%20Matias%22&sort=date%20desc%2C%20bibcode%20desc",
  "papers": [
   {
-   "bibcode": null,
+   "bibcode": "2026arXiv261107546S",
    "title": "Violent relaxation in hierarchical stellar systems: pathways toward massive black hole formation in the early Universe",
    "authors": [
     "Schleicher, Dominik R. G.",
-    "Dotti, Francesco Flammini",
+    "Flammini Dotti, Francesco",
     "Liempi, Matías",
     "Zana, Tommaso",
     "Escala, Andrés",
@@ -19,48 +19,25 @@
    ],
    "position": 3,
    "year": "2026",
-   "pubdate": "2026-11-05",
+   "pubdate": "2026-11-00",
    "pub": "arXiv e-prints",
    "volume": null,
    "page": "arXiv:2611.07546",
    "doctype": "eprint",
-   "doi": null,
+   "doi": "10.48550/arXiv.2611.07546",
    "arxiv": "2611.07546",
    "ids": [
-    "arXiv:2611.07546"
+    "2026arXiv261107546S",
+    "arXiv:2611.07546",
+    "10.48550/arXiv.2611.07546"
    ],
    "abstract": "Massive stellar systems have been detected in the high-redshift Universe via the James Webb Space Telescope using gravitational lensing techniques. Such stellar systems may evolve on short dynamical timescales, despite a formally large 2-body relaxation time. If the stellar system consists of a large number of gravitationally bound clusters, a 2-body relaxation time can be defined for the star clusters in analogy to the 2-body relaxation time for stars, implying a faster evolution determined by the number of stars per cluster. At their formation, clusters will go through a process of \"cold collapse\" as part of their early, non-collisional, evolution. This phase enhances the mass segregation between the more massive and less massive population of stars. We derive a criteria based on the mass of the two components that determines under which conditions the massive component may even decouple from the cluster itself. Mergers of clusters and multiple mergers on average tend to produce systems with larger cluster radii. For the formation of massive black holes via dense stellar systems, the most promising pathway consists in the cold collapse of a dense massive cluster, after few mergers (or possibly none). In such a cluster with a sufficient number of massive stars, the massive population of stars will dynamically decouple in the central region and go through core collapse, leading to the formation of a central massive object. In the case of multiple mergers, massive but more spatially extended stellar systems will form.",
-   "citations": null,
+   "citations": 0,
    "refereed": false
   },
   {
-   "bibcode": "2026ApJ..1005..174L",
-   "title": "Little Red Dot progenitors from Compact Starbursts: A Natural Path to Early AGN Formation",
-   "authors": [
-    "Liempi, Matías",
-    "Latif, Muhammad A.",
-    "Schleicher, Dominik R. G."
-   ],
-   "position": 1,
-   "year": "2026",
-   "pubdate": "2026-06-02",
-   "pub": "The Astrophysical Journal",
-   "volume": "1005",
-   "page": "174",
-   "doctype": "article",
-   "doi": null,
-   "arxiv": "2606.03375",
-   "ids": [
-    "2026ApJ..1005..174L",
-    "arXiv:2606.03375"
-   ],
-   "abstract": "The recent discovery of Little Red Dots (LRDs) by the James Webb Space Telescope has challenged traditional models of early galaxy and black hole co-evolution. The nature of these highly compact objects remains heavily debated, with explanations divided between dust-reddened active galactic nuclei (AGN) and extremely dense stellar populations. We perform high-resolution cosmological simulations to model the formation of LRD precursors. Motivated by recent high-redshift observations and theoretical results, we specifically explore environments characterized by high star formation efficiencies (30\\% and 100\\%) and confined feedback. Our simulations naturally produce highly compact galaxies with stellar masses of $10^7-6 \\times 10^8 $\\,M$_\\odot$, with most of the mass concentrated within $200-300$ pc. We find that, in these dense environments, gas inflows, gravitational torques, and stellar dynamical friction operate on highly efficient timescales. Over a 10 Myr timescale, gas inflows can accumulate $\\rm \\sim 10^7 M_\\odot$ at the galactic center, while gravitational torques and dynamical friction can contribute an additional $10^5-10^9$\\,M$_\\odot$ and $10^3-10^4$\\, M$_\\odot$ through the inward migration of massive stars. Assuming a conservative 10\\% efficiency to account for feedback, this rapid mass accumulation can lead to the formation of a $\\sim 10^6$\\,M$_\\odot$ central black hole, naturally giving rise to an AGN in these dense systems. Therefore, stellar and AGN interpretations of LRDs may not be mutually exclusive; rather, dense stellar systems are likely precursors to AGN.",
-   "citations": null,
-   "refereed": true
-  },
-  {
-   "bibcode": "2026arXiv260520381B",
-   "title": "Formation of intermediate-mass black holes in young massive clusters detected with JWST: analytic mass estimates",
+   "bibcode": "2026A&A...712A.146B",
+   "title": "Formation of intermediate-mass black holes in young massive clusters detected with JWST: Analytic mass estimates",
    "authors": [
     "Bocchi, Viola",
     "Liempi, Matías",
@@ -68,30 +45,61 @@
    ],
    "position": 2,
    "year": "2026",
-   "pubdate": "2026-05-19",
-   "pub": "arXiv e-prints",
-   "volume": null,
-   "page": "arXiv:2605.20381",
-   "doctype": "eprint",
-   "doi": null,
+   "pubdate": "2026-08-00",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "712",
+   "page": "A146",
+   "doctype": "article",
+   "doi": "10.1051/0004-6361/202659622",
    "arxiv": "2605.20381",
    "ids": [
+    "2026A&A...712A.146B",
+    "10.1051/0004-6361/202659622",
     "2026arXiv260520381B",
-    "arXiv:2605.20381"
+    "arXiv:2605.20381",
+    "10.48550/arXiv.2605.20381"
    ],
-   "abstract": "The James Webb Space Telescope (JWST) has revealed a population of dense stellar systems at high redshift, including the \"Cosmic Gems\" arc ($z \\sim 10.2$) and the \"Firefly Sparkle\" ($z \\sim 8.3$). With masses in the range of $10^5$ M$_\\odot$-$10^7$M$_\\odot$ and half-mass radii in the range from $\\sim0.4$-$15$ pc, these systems are ideally suited to form intermediate-mass black holes (IMBHs) via collision-based models. While direct N-body simulations are unfeasible for such a large population and given the high masses in many of the clusters, we estimate the IMBH masses formed via runaway stellar collisions in these specific environments utilizing a Fokker-Planck model together with an analytical framework for runaway collisions and mass loss through winds, which has been validated against direct N-body simulations of compact star clusters. We apply this model to a sample of massive high-redshift clusters observed with JWST. Our estimates yield typical IMBH masses in the range of $\\sim10^2$ M$_\\odot$ up to $\\sim4\\times 10^3$ M$_\\odot$, implying typical formation efficiencies on the few percent level. The extreme compactness of the Cosmic Gems clusters ($R_h \\sim 1$ pc) facilitates the formation of black hole seeds with high masses of $1600-2700 {\\rm M}_\\odot$. Low metallicity ($Z \\lesssim 0.02 \\, {\\rm Z}_\\odot$) is a critical factor for retaining the seed mass against stellar winds. We further demonstrate that the efficiencies obtained here are consistent with expectations based on direct N-body simulations. Our results suggest that these dense, metal-poor clusters are viable factories for heavy seeds, capable of growing into the supermassive black holes observed in the early Universe.",
-   "citations": null,
-   "refereed": false
+   "abstract": "The James Webb Space Telescope (JWST) has revealed a population of dense stellar systems at high redshifts, including the \"Cosmic Gems\" arc (z ∼ 10.2) and the \"Firefly Sparkle\" (z ∼ 8.3). With masses in the range 10<SUP>5</SUP> M<SUB>⊙</SUB>─10<SUP>7</SUP> M<SUB>⊙</SUB> and half-mass radii in the range ∼0.4─15 pc, these systems are ideally suited to form intermediate-mass black holes (IMBHs) via collision-based models. Since direct N-body simulations are unfeasible for such a large population, and given the high masses in many of the clusters, we estimated the IMBH masses formed via runaway stellar collisions in these specific environments utilizing a Fokker-Planck model together with an analytical framework for runaway collisions and mass loss through winds, which has been validated against direct N-body simulations of compact star clusters. We applied this model to a sample of massive high-redshift clusters observed with JWST. Our estimates yield typical IMBH masses in the range ∼10<SUP>2</SUP> M<SUB>⊙</SUB> to ∼4 × 10<SUP>3</SUP> M<SUB>⊙</SUB>, implying typical formation efficiencies on the few percent level. The extreme compactness of the Cosmic Gems clusters (R<SUB>h</SUB> ∼ 1 pc) facilitates the formation of black hole seeds with high masses of 1600─2700 M<SUB>⊙</SUB>. The low metallicity (Z ≲ 0.02 Z<SUB>⊙</SUB>) is a critical factor for retaining the seed mass despite stellar winds. We further demonstrate that the efficiencies obtained here are consistent with expectations based on direct N-body simulations. Our results suggest that these dense, metal-poor clusters are viable factories for heavy seeds that are capable of growing into the supermassive black holes observed in the early Universe.",
+   "citations": 2,
+   "refereed": true
+  },
+  {
+   "bibcode": "2026ApJ..1005..174L",
+   "title": "Little Red Dot Progenitors from Compact Starbursts: A Natural Path to Early AGN Formation",
+   "authors": [
+    "Liempi, Matías",
+    "Latif, Muhammad A.",
+    "Schleicher, Dominik R. G."
+   ],
+   "position": 1,
+   "year": "2026",
+   "pubdate": "2026-07-00",
+   "pub": "The Astrophysical Journal",
+   "volume": "1005",
+   "page": "174",
+   "doctype": "article",
+   "doi": "10.3847/1538-4357/ae7710",
+   "arxiv": "2606.03375",
+   "ids": [
+    "2026ApJ..1005..174L",
+    "arXiv:2606.03375",
+    "2026arXiv260603375L",
+    "10.3847/1538-4357/ae7710",
+    "10.48550/arXiv.2606.03375"
+   ],
+   "abstract": "The recent discovery of little red dots (LRDs) by the James Webb Space Telescope has challenged traditional models of early galaxy and black hole coevolution. The nature of these highly compact objects remains heavily debated, with explanations divided between dust-reddened active galactic nuclei (AGN) and extremely dense stellar populations. We perform high-resolution cosmological simulations to model the formation of LRD precursors. Motivated by recent high-redshift observations and theoretical results, we specifically explore environments characterized by high star formation efficiencies (30% and 100%) and confined feedback. Our simulations naturally produce highly compact galaxies with stellar masses of 10<SUP>7</SUP>─6 × 10<SUP>8</SUP> M<SUB>⊙</SUB>, with most of the mass concentrated within 200─300 pc. We find that, in these dense environments, gas inflows, gravitational torques, and stellar dynamical friction operate on highly efficient timescales. Over a 10 Myr timescale, gas inflows can accumulate ∼10<SUP>7</SUP> M<SUB>⊙</SUB> at the galactic center, while gravitational torques and dynamical friction can contribute an additional 10<SUP>5</SUP>─10<SUP>9</SUP> M<SUB>⊙</SUB> and 10<SUP>3</SUP>─10<SUP>4</SUP> M<SUB>⊙</SUB> through the inward migration of massive stars. Assuming a conservative 10% efficiency to account for feedback, this rapid mass accumulation can lead to the formation of a ∼10<SUP>6</SUP> M<SUB>⊙</SUB> central black hole, naturally giving rise to an AGN in these dense systems. Therefore, stellar and AGN interpretations of LRDs may not be mutually exclusive; rather, dense stellar systems are likely precursors to AGN.",
+   "citations": 0,
+   "refereed": true
   },
   {
    "bibcode": "2026A&A...710A.235S",
-   "title": "Massive star clusters detected by JWST as natural birth places to form intermediate-mass black holes",
+   "title": "Massive star clusters detected by JWST as natural birthplaces of intermediate-mass black holes",
    "authors": [
     "Schleicher, Dominik R. G.",
     "Liempi, Matías",
     "Giersz, Mirek",
     "Vergara, Marcelo C.",
-    "Dotti, Francesco Flammini",
+    "Flammini Dotti, Francesco",
     "Solar, Paulo",
     "Escala, Andrés",
     "Latif, Muhammad A.",
@@ -104,80 +112,142 @@
    ],
    "position": 2,
    "year": "2026",
-   "pubdate": "2026-03-25",
-   "pub": "Astronomy & Astrophysics",
+   "pubdate": "2026-06-00",
+   "pub": "Astronomy and Astrophysics",
    "volume": "710",
    "page": "A235",
    "doctype": "article",
-   "doi": null,
+   "doi": "10.1051/0004-6361/202558437",
    "arxiv": "2603.24550",
    "ids": [
     "2026A&A...710A.235S",
-    "arXiv:2603.24550"
+    "10.1051/0004-6361/202558437",
+    "2026arXiv260324550S",
+    "arXiv:2603.24550",
+    "10.48550/arXiv.2603.24550"
    ],
-   "abstract": "The James Webb Space Telescope (JWST) has detected, through gravitational lensing, several young massive star clusters (YMCs), which are considered as relevant building blocks of high redshift galaxies. In this work, we show how a significant fraction of these YMCs could act as relevant birth places for intermediate-mass black holes. We first consider the formation of massive clusters and show that the population of YMCs is consistent with a steep mass-radius relation, which includes a relevant spread of roughly an order of magnitude. We pursue a comparison of this population with young star clusters in the local Universe and Milky Way globular clusters, including an analysis of the characteristic timescales. The YMCs show a wide spread over these properties, but include systems with both short relaxation times as well as relatively short collision timescales, implying they could go through efficient core collapse, which would lead to runaway collisions. We provide quantitative estimates of the sizes of the clusters that could efficiently form intermediate-mass black holes through a runaway collision-based channel, suggesting that these roughly correspond to the systems beyond the $1σ$ scatter in the mass-radius relation. This implies a fraction of ~16% of YMCs as candidates to form intermediate-mass black holes. We show that above a mass limit of ~6x10^6 M_sun, compact star clusters are likely to retain gas even in the presence of strong supernova feedback, altering the dynamics in the central core and providing the possibility to rapidly grow the central object both via gas dynamical friction and Bondi accretion. Finally, we consider the possibility of a gas-dominated regime, in which strong gravitational torques may inhibit star cluster formation and instead directly form a high-mass black holes, as suggested to have occurred in the infinity galaxy.",
-   "citations": null,
+   "abstract": "The James Webb Space Telescope (JWST) has detected, through gravitational lensing, several young massive star clusters (YMCs), which are considered as relevant building blocks of high-redshift galaxies. In this work, we show how a significant fraction of these YMCs could act as relevant birthplaces for intermediate-mass black holes (IMBHs). We first consider the formation of massive clusters and show that the population of YMCs is consistent with a steep mass-radius relation, which includes a relevant spread of roughly an order of magnitude. We pursue a comparison of this population with young star clusters in the local Universe and Milky Way globular clusters, including an analysis of the characteristic timescales. The YMCs show a wide spread over these properties, but include systems with both short relaxation times as well as relatively short collision timescales, implying they could go through efficient core collapse, which would lead to runaway collisions. We provide quantitative estimates of the sizes of the clusters that could efficiently form IMBHs through a runaway collision-based channel, suggesting that these roughly correspond to the systems beyond the 1σ scatter in the mass-radius relation. This implies a fraction of ∼16% of YMCs as candidates to form IMBHs. We show that above a mass limit of ∼6 × 10<SUP>6</SUP> M<SUB>⊙</SUB>, compact star clusters are likely to retain gas even in the presence of strong supernova feedback, altering the dynamics in the central core and providing the possibility to rapidly grow the central object both via gas dynamical friction and Bondi accretion. Finally, we consider the possibility of a gas-dominated regime, in which strong gravitational torques may inhibit star cluster formation and instead directly form a high-mass black holes, as is suggested to have occurred in the ∞ galaxy.",
+   "citations": 2,
    "refereed": true
   },
   {
+   "bibcode": "2026RMxAC..60..238A",
+   "title": "Exploring the evolution of galaxies: A comparative study using two Semi-Analytic Codes",
+   "authors": [
+    "Almonacid, L.",
+    "Schleicher, D. R. G.",
+    "Liempi, M."
+   ],
+   "position": 3,
+   "year": "2026",
+   "pubdate": "2026-04-00",
+   "pub": "Revista Mexicana de Astronomia y Astrofisica Conference Series",
+   "volume": "60",
+   "page": "238",
+   "doctype": "inproceedings",
+   "doi": "10.22201/ia.14052059p.2026.60.238",
+   "arxiv": null,
+   "ids": [
+    "2026RMxAC..60..238A",
+    "10.22201/ia.14052059p.2026.60.238"
+   ],
+   "abstract": "In this study, we compare two semi-analytic models of galaxy evolution, SAGE and GALACTICUS. Our aim is to compare their results and understand their agreement or divergence. We use the Millennium run N-body simulation as input, the Millennium run I with SAGE and the mini-Millennium I with GALACTICUS. We employ a minimal set of physical processes to analyze the performance of the models focusing on statistical analyses . We use similar physical parameters. We examine key aspects including black hole population and galaxy properties, seeking to unravel their strengths and weaknesses. We find that the black hole mass distribution tendency is similar in the models but the mass range is different. Also, the normalized frequency has a different scale. This research contributes to the advance of our knowledge in the galaxy evolution providing insights into the complex process involve.",
+   "citations": 0,
+   "refereed": false
+  },
+  {
+   "bibcode": "2026RMxAC..60..216L",
+   "title": "Impact on black hole population due to seed formation in runaway star collisions in nuclear star clusters",
+   "authors": [
+    "Liempi, M.",
+    "Schleicher, D. R. G.",
+    "Benson, A.",
+    "Escala, A.",
+    "Almonacid, L."
+   ],
+   "position": 1,
+   "year": "2026",
+   "pubdate": "2026-04-00",
+   "pub": "Revista Mexicana de Astronomia y Astrofisica Conference Series",
+   "volume": "60",
+   "page": "216",
+   "doctype": "inproceedings",
+   "doi": "10.22201/ia.14052059p.2026.60.216",
+   "arxiv": null,
+   "ids": [
+    "2026RMxAC..60..216L",
+    "10.22201/ia.14052059p.2026.60.216"
+   ],
+   "abstract": "Nuclear Star Clusters (NSCs) are a potential place to form Supermassive Black Holes (SMBHs) in the center of galaxies. In this work, we present an implementation of an NSC model in Galacticus, a semi-analytic code designed for simulating galaxy formation and evolution. Our focus is on exploring the role of NSCs during the formation of SMBHs. We assume here that the dominant channel for NSC formation is the transfer of gas from the galactic bulge into a gas reservoir. The gas transfer rate to the center is assumed to be correlated to the global star formation rate in the galaxy, leading to the formation of NSCs through in-situ star formation at the galactic center. Moreover, we introduce a collapse model for NSCs, where they ultimately collapse into a Black Hole (BH) seed upon reaching a critical mass. This critical mass is reached when the age of the NSC exceeds its collisional timescale. By exploring this collapse scenario, we aim to shed light on its potential implications for the population of SMBHs, as well as the relationships between NSCs and galaxies, SMBHs and galaxies, and NSCs and SMBHs. Our investigation delves into how this collapse scenario can impact the overall SMBH population, as well as the intricate connections between NSCs, galaxies, and SMBHs. This research provides insights into the formation and evolution of NSCs and their impact on the galactic and black hole environments. In our results we find SMBHs with masses up to ~ 109 M⊙ at z=0.",
+   "citations": 0,
+   "refereed": false
+  },
+  {
    "bibcode": "2026A&A...708A..44L",
-   "title": "Constraints on dynamically-formed massive black holes in Little Red Dots from X-ray non-detections",
+   "title": "Constraints on dynamically formed massive black holes in little red dots from X-ray non-detections",
    "authors": [
     "Liempi, M.",
     "Schleicher, D. R. G.",
     "Latif, M. A.",
     "Schneider, R.",
-    "Dotti, F. Flammini",
+    "Flammini Dotti, F.",
     "Escala, A.",
     "Vergara, M. C."
    ],
    "position": 1,
    "year": "2026",
-   "pubdate": "2026-02-24",
-   "pub": "Astronomy & Astrophysics",
+   "pubdate": "2026-03-00",
+   "pub": "Astronomy and Astrophysics",
    "volume": "708",
    "page": "A44",
    "doctype": "article",
-   "doi": null,
+   "doi": "10.1051/0004-6361/202558108",
    "arxiv": "2602.21002",
    "ids": [
     "2026A&A...708A..44L",
+    "2026arXiv260221002L",
+    "10.48550/arXiv.2602.21002",
+    "10.1051/0004-6361/202558108",
     "arXiv:2602.21002"
    ],
-   "abstract": "The existence of massive, compact galaxies (Little Red Dots, LRDs) at $z \\sim 2$ challenges early structure formation models, suggesting rapid stellar and black hole (BH) assembly. While LRDs are efficient environments for BH growth, many show no X-ray evidence of strong AGN emission. We utilize a subsample of X-ray non-detected LRDs to test the compatibility of collision-based BH formation scenarios and constrain physical parameters like metallicity and column density. Our results indicate LRDs are ideal birthplaces for massive BHs, particularly given a mass-radius relation $R_{gal} \\propto M_{gal}^{0.6}$. Collision-based models suggest seed masses larger than those in the local Universe, consistent with high-redshift BH mass-radius relations. We modeled BH seed formation and X-ray emission (0.3-7 keV) against observed upper limits. We find that mass-radius exponents $> 0.55$ favor the collision-based scenario; however, consistency with stacked X-ray analysis requires specific accretion and obscuration parameters. Constant or increasing SFR scenarios with high Eddington ratios are feasible but necessitate larger column densities or higher metal enrichment. Alternatively, moderate sub-Eddington accretion reconciles massive seeds with observed masses and X-ray weakness. We conclude that even if LRDs began as starbursts, they should eventually evolve into AGNs.",
-   "citations": null,
+   "abstract": "The existence of extremely massive and compact galaxies, also called little red dots (LRDs), at z ≳ 2 challenges models of early structure formation, suggesting extremely rapid stellar and black hole (BH) assembly. These galaxies are efficient environments for rapid BH growth, but several LRDs show no evidence of strong emission from the active galactic nuclei in X-rays. Our work uses a subsample of X-ray non-detected LRDs to determine whether the collision-based BH formation scenario is compatible with the non-detections and to constrain the physical parameters (e.g., metallicity) and observational parameters (e.g., column density). Our results show that LRDs might be ideal birthplaces for the formation of massive BHs, particularly in the case of a mass-radius relation <inline-formula> R<SUB>gal</SUB> ∝ M<SUP>0.6</SUP><SUB>gal</SUB> <mml:math> <mml:mrow> <mml:msub> <mml:mi>R</mml:mi> <mml:mi>gal</mml:mi> </mml:msub> <mml:mo>∝</mml:mo> <mml:msubsup> <mml:mi>M</mml:mi> <mml:mi>gal</mml:mi> <mml:mrow> <mml:mn>0.6</mml:mn> </mml:mrow> </mml:msubsup> </mml:mrow> </mml:math> </inline-formula> (similar to spiral galaxies in the local Universe). Given the high stellar densities, collision-based models suggest seed masses greater than those observed in the local Universe, and these are compatible with the mass-radius relation of high-redshift BHs. We modeled the BH seed formation and subsequent X-ray emission to investigate the physical and observational parameter space to compare with the observed X-ray upper limits in the soft (0.3 − 2 keV) and hard band (2 − 7 keV). We found that exponents in the mass-radius relation above 0.55 favor the collision-based scenario, but consistency with the stacked X-ray analysis requires specific combinations of accretion and obscuration parameters. Additionally, we found that constant or increasing star formation rate scenarios assuming high Eddington ratios and long duty cycles are feasible, but require higher column densities and/or a higher level of metal enrichment in the shielding columns. Alternatively, moderate sub-Eddington accretion rates seem to be sufficient to reconcile the massive seeds with their final observed masses, consistent with the observed X-ray weakness. Overall, we conclude that even if LRDs were initially starburst galaxies, they should evolve into an active galactic nucleus.",
+   "citations": 5,
    "refereed": true
   },
   {
-   "bibcode": null,
+   "bibcode": "2025ApJ...995...44E",
    "title": "On the Fate of Little Red Dots",
    "authors": [
-    "Escala, Andres",
+    "Escala, Andrés",
     "Zimmermann, Lucas",
-    "Valdebenito, Sebastian",
+    "Valdebenito, Sebastián",
     "Vergara, Marcelo C.",
     "Schleicher, Dominik R. G.",
-    "Liempi, Matias"
+    "Liempi, Matías"
    ],
    "position": 6,
    "year": "2025",
-   "pubdate": "2025-09-24",
-   "pub": "arXiv e-prints",
-   "volume": null,
-   "page": "arXiv:2509.20453",
-   "doctype": "eprint",
-   "doi": null,
+   "pubdate": "2025-12-00",
+   "pub": "The Astrophysical Journal",
+   "volume": "995",
+   "page": "44",
+   "doctype": "article",
+   "doi": "10.3847/1538-4357/ae200e",
    "arxiv": "2509.20453",
    "ids": [
-    "arXiv:2509.20453"
+    "2025ApJ...995...44E",
+    "2025arXiv250920453E",
+    "10.3847/1538-4357/ae200e",
+    "arXiv:2509.20453",
+    "10.48550/arXiv.2509.20453"
    ],
-   "abstract": "We study the stability and possible fates of Little Red Dots, under the stellar-only interpretation of their observational features. This is performed by a combination of analyzing the relevant timescales in their stellar dynamics and also, the application of recent numerical results on the evolution of the densest stellar systems. We find that these objects typically have tage ~ tcoll < trelax, therefore, in an unexplored regime never observed before for a stellar system and potentially, highly unstable to runaway collisions. We study different scenarios for the evolution of Little Red Dots and conclude that in a fair fraction of those systems, the formation of a massive black hole by runaway collisions seems unavoidable, in all the possibilities studied within the stellar-only interpretation. This evolutionary path would naturally explain many of the problematic characteristics of Little Red Dots, including that these objects are probably transient in the history of the Universe, that most of them would not emit X-rays since they would not yet have become massive black holes, and once they do, they would constitute a significant portion of the mass of the Little Red Dots. We conclude that Little Red Dots are the most favourable known places to find a recently formed massive black hole seed, or in the process of formation, most probably formed directly in the supermassive range",
-   "citations": null,
-   "refereed": false
+   "abstract": "We study the stability and possible fates of little red dots (LRDs) under the stellar-only interpretation of their observational features. This is performed by a combination of analyzing the relevant timescales in their stellar dynamics and also the application of recent numerical results on the evolution of the densest stellar systems. We find that these objects typically have t<SUB>age</SUB> ∼ t<SUB>coll</SUB> &lt; t<SUB>relax</SUB> and are therefore in an unexplored regime never observed before for a stellar system and are potentially highly unstable to runaway collisions. We study different scenarios for the evolution of LRDs and conclude that in a fair fraction of those systems, the formation of a massive black hole (MBH) by runaway stellar collisions seems unavoidable, in all the possibilities studied within the stellar-only interpretation. This evolutionary path would naturally explain many of the problematic characteristics of Little Red Dots, including that these objects are probably transient in the history of the Universe, that most of them would not emit X-rays since they would not yet have become MBHs, and once they do, they would constitute a significant portion of the mass of LRDs. We conclude that LRDs are the most favorable known places to find a recently formed MBH seed or, in the process of formation, that are most probably formed directly within the supermassive range.",
+   "citations": 13,
+   "refereed": true
   },
   {
    "bibcode": "2025A&A...694A..42L",
-   "title": "The supermassive black hole population from seeding via collisions in Nuclear Star Clusters",
+   "title": "The supermassive black hole population from seeding via collisions in nuclear star clusters",
    "authors": [
     "Liempi, M.",
     "Schleicher, D. R. G.",
@@ -187,30 +257,33 @@
    ],
    "position": 1,
    "year": "2025",
-   "pubdate": "2024-12-11",
-   "pub": "Astronomy & Astrophysics",
+   "pubdate": "2025-02-00",
+   "pub": "Astronomy and Astrophysics",
    "volume": "694",
    "page": "A42",
    "doctype": "article",
-   "doi": null,
+   "doi": "10.1051/0004-6361/202451672",
    "arxiv": "2412.08280",
    "ids": [
     "2025A&A...694A..42L",
-    "arXiv:2412.08280"
+    "10.1051/0004-6361/202451672",
+    "arXiv:2412.08280",
+    "2024arXiv241208280L",
+    "10.48550/arXiv.2412.08280"
    ],
-   "abstract": "The coexistence of nuclear star clusters (NSCs) and supermassive black holes (SMBHs) in galaxies with stellar masses $\\sim 10^{10}~$M$_\\odot$, the scaling relations between their properties and properties of the host galaxy (e.g., $M_{NSC}^{stellar}-M_{galaxy}^{stellar}$, $M_{BH}-M_{galaxy}^{stellar}$), and the fact that NSCs seem to take on the role of SMBHs in less massive galaxies and vice versa in the more massive ones, suggest that the origin of NSCs and SMBHs is related. In this study, we implement an 'in-situ' NSC formation scenario, where NSCs are formed in the center of galaxies due to star formation in the accumulated gas. We explore the impact of the free parameter $A_{res}$ which regulates the amount of gas transferred to the NSC reservoir, playing a crucial role in shaping the cluster's growth. Simultaneously, we include a BH seed formation recipe based on stellar collisions within NSCs in the Semi-Analytical Model (SAM) Galacticus to explore the resulting population of SMBHs. We determine the parameter space of the NSCs that form a BH seed and find that in initially more compact NSCs the formation of these BH seeds is more favorable, leading to the formation of light, medium and heavy BH seeds which finally reach masses up to $\\sim 10^9$~M$_\\odot$ and is comparable with the observed SMBH mass function at masses above $10^8$~M$_\\odot$. Additionally, we compare the resulting population of NSCs with a derived NSC mass function from the stellar mass function of galaxies from the GAMA survey at $z<0.06$ finding a well agreement in shape terms. We also find a considerable overlap in the observed scaling relations between the NSC mass, and the host galaxy stellar mass and velocity dispersion which is independent of the value of $A_{res}$. However, the chi-square analysis suggests that the model requires further refinement to achieve better quantitative agreement.",
-   "citations": null,
+   "abstract": "The coexistence of nuclear star clusters (NSCs) and supermassive black holes (SMBHs) in galaxies with stellar masses of ∼10<SUP>10</SUP> M<SUB>⊙</SUB>, scaling relations between their properties and the properties of the host galaxy (e.g., M<SUB>NSC</SUB><SUP>stellar</SUP> − M<SUB>galaxy</SUB><SUP>stellar</SUP> and M<SUB>BH</SUB> − M<SUB>galaxy</SUB><SUP>stellar</SUP>), and the fact that NSCs seem to take on the role of SMBHs in less massive galaxies (and vice versa in the more massive ones) suggest that the origin of NSCs and SMBHs is related. In this study we implemented an 'in situ' NSC formation scenario in which NSCs are formed in the center of galaxies due to star formation in the accumulated gas. We explored the impact of the free parameter A<SUB>res</SUB>, which regulates the amount of gas transferred to the NSC reservoir and thus plays a crucial role in shaping the cluster's growth. Simultaneously, we included a black hole (BH) seed formation recipe based on stellar collisions within NSCs in the semi-analytic model GALACTICUS to explore the resulting population of SMBHs. We determined the parameter space of the NSCs that form a BH seed and find that in initially more compact NSCs, the formation of these BH seeds is more favorable. This leads to the formation of light, medium, and heavy BH seeds, which eventually reach masses of up to ∼10<SUP>9</SUP> M<SUB>⊙</SUB> and is comparable to the observed SMBH mass function at masses above 10<SUP>8</SUP> M<SUB>⊙</SUB> . Additionally, we compared the resulting population of NSCs with a NSC mass function derived from the stellar mass function of galaxies from the GAMA survey at ɀ &lt; 0.06, finding a good agreement in terms of shape. We also find a considerable overlap in the observed scaling relations between the NSC mass, the stellar mass of the host galaxy, and the velocity dispersion, which is independent of the value of Ares . However, the chi-square analysis suggests that the model requires further refinement to achieve better quantitative agreement.",
+   "citations": 10,
    "refereed": true
   },
   {
-   "bibcode": null,
-   "title": "Efficiency of black hole formation via collisions in stellar systems: An analysis of data from simulations and observations",
+   "bibcode": "2024A&A...689A..34V",
+   "title": "Efficiency of black hole formation via collisions in stellar systems: Data analysis from simulations and observations",
    "authors": [
     "Vergara, M. C.",
     "Schleicher, D. R. G.",
     "Escala, A.",
     "Reinoso, B.",
-    "Dotti, F. Flammini",
+    "Flammini Dotti, F.",
     "Kamlah, A. W. H.",
     "Liempi, M.",
     "Hoyer, N.",
@@ -219,39 +292,80 @@
    ],
    "position": 7,
    "year": "2024",
-   "pubdate": "2024-05-20",
-   "pub": "arXiv e-prints",
-   "volume": null,
-   "page": "arXiv:2405.12008",
-   "doctype": "eprint",
-   "doi": null,
+   "pubdate": "2024-09-00",
+   "pub": "Astronomy and Astrophysics",
+   "volume": "689",
+   "page": "A34",
+   "doctype": "article",
+   "doi": "10.1051/0004-6361/202449967",
    "arxiv": "2405.12008",
    "ids": [
-    "arXiv:2405.12008"
+    "2024A&A...689A..34V",
+    "2024arXiv240512008V",
+    "10.48550/arXiv.2405.12008",
+    "arXiv:2405.12008",
+    "10.1051/0004-6361/202449967"
    ],
-   "abstract": "This paper explores the theoretical relation between star clusters and black holes within, focusing on the potential role of nuclear star clusters (NSCs), globular clusters (GCs), and ultra compact dwarf galaxies (UCDs) as environments that allow for black hole formation via stellar collisions. This study aims to identify the optimal conditions for stellar collisions across a range of stellar systems leading to the formation of very massive stars that subsequently collapse into black holes. We analyze data from numerical simulations and observations of diverse stellar systems, encompassing various initial conditions, initial mass functions, and evolution scenarios. We computed a critical mass, determined by the interplay of collision time, system age, and initial properties of the star cluster. The efficiency of black hole formation ($ε_{\\mathrm{BH}}$) is defined as the ratio of initial stellar mass divided by critical mass. We find that stellar systems with a ratio of initial stellar mass over critical mass above 1 exhibit a high efficiencies in terms of black hole formation, ranging from $30-100\\%$. While there is some scatter, potentially attributed to complex system histories and the presence of gas, the results highlight the potential for achieving high efficiencies via a purely collisional channel in black hole formation. In conclusion, this theoretical exploration elucidates the connection between star clusters and black hole formation. The study underscores the significance of UCDs, GCs, and NSCs as environments conducive to the black hole formation scenario via stellar collisions. The defined black hole formation efficiency ($ε_{\\mathrm{BH}}$) is shown to be influenced by the ratio of the initial stellar mass to the critical mass.",
-   "citations": null,
-   "refereed": false
+   "abstract": "Context. This paper explores the theoretical relation between star clusters and black holes within them, focusing on the potential role of nuclear star clusters (NSCS), globular clusters (GCS), and ultra-compact dwarf galaxies (UCDS) as environments that allow for black hole formation via stellar collisions. Aims. This study aims to identify the optimal conditions for stellar collisions across a range of stellar systems, leading to the formation of very massive stars that subsequently collapse into black holes. We analyze data from numerical simulations and observations of diverse stellar systems, encompassing various initial conditions, initial mass functions, and evolution scenarios. Methods. We computed a critical mass, determined by the interplay of the collision time, system age, and initial properties of the star cluster. The efficiency of black hole formation (ϵ<SUB>BH</SUB>) is defined as the ratio of initial stellar mass divided by the critical mass. Results. We find that stellar systems with a ratio of initial stellar mass over critical mass above 1 exhibit a high efficiency in terms of black hole formation, ranging from 30 − 100%. While there is some scatter, potentially attributed to complex system histories and the presence of gas, the results highlight the potential for achieving high efficiencies via a purely collisional channel in black hole formation. Conclusions. In conclusion, this theoretical exploration elucidates the connection between star clusters and black hole formation. The study underscores the significance of UCDS, GCS, and NSCS as environments conducive to the black hole formation scenario via stellar collisions. The defined black hole formation efficiency (ϵ<SUB>BH</SUB>) is shown to be influenced by the ratio of the initial stellar mass to the critical mass.",
+   "citations": 19,
+   "refereed": true
   },
   {
    "bibcode": "2024BAAA...65..205L",
    "title": "Formation of supermassive black holes in galaxies through collisions in Nuclear Star Clusters",
-   "authors": [],
-   "position": null,
+   "authors": [
+    "Liempi, M.",
+    "Benson, A.",
+    "Escala, A.",
+    "Schleicher, D. R. G.",
+    "Almonacid, L."
+   ],
+   "position": 1,
    "year": "2024",
-   "pubdate": "2024-01-01",
+   "pubdate": "2024-08-00",
    "pub": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
    "volume": "65",
    "page": "205",
-   "doctype": "inproceedings",
+   "doctype": "article",
    "doi": null,
    "arxiv": null,
    "ids": [
     "2024BAAA...65..205L"
    ],
-   "abstract": null,
-   "citations": null,
-   "refereed": null
+   "abstract": "Nuclear Star Clusters (NSCs) and/or Supermassive Black Holes (SMBHs) are observed in the center of galaxies. Although each object is found in different regimes, it is possible to find both of them coexisting in galaxies with stellar masses $\\sim10^{10} \\mathrm{M}_\\odot$. In this work we present an implementation of a NSC model in {\\sc Galacticus}, a semi-analytic code designed for simulating galaxy formation and evolution. Our focus is exploring the role of NSCs during the formation of SMBHs. We assume an in situ star formation scenario in the gas accumulated in the center of the galaxy. Moreover, we introduce a collapse model for NSCs, where they ultimately collapse into a BH seed upon reaching a critical mass for which collisions between stars become relevant within the cluster. This critical mass is reached when the collisional timescale is shorted than the age of the system. By exploring this collapse scenario, we aim to shed light on its potential implications for the resulting population of SMBHs. Our investigation delves into how this collapse scenario can impact the overall SMBH, as wel as the intricate connections between NSCs, galaxies, and SMBHs. This research provides insights into the formation and evolution of NSCs and their impact on the galactic and black hole environments. We find the formation of BH seeds with masses in the range $10^3-10^{5.5} \\mathrm{M}_\\odot$.",
+   "citations": 0,
+   "refereed": true
+  },
+  {
+   "bibcode": "2024yCat..36890034V",
+   "title": "VizieR Online Data Catalog: Efficiency of black hole formation (Vergara+, 2024)",
+   "authors": [
+    "Vergara, M. C.",
+    "Schleicher, D. R. G.",
+    "Escala, A.",
+    "Reinoso, B.",
+    "Flammini Dotti, F.",
+    "Kamlah, A. W. H.",
+    "Liempi, M.",
+    "Hoyer, N.",
+    "Neumayer, N.",
+    "Spurzem, R."
+   ],
+   "position": 7,
+   "year": "2024",
+   "pubdate": "2024-06-00",
+   "pub": "VizieR Online Data Catalog",
+   "volume": "368",
+   "page": "J/A+A/689/A34",
+   "doctype": "dataset",
+   "doi": null,
+   "arxiv": null,
+   "ids": [
+    "2024yCat..36890034V"
+   ],
+   "abstract": "Summary of the initial conditions for the different sets of simulations. <P />(2 data files).",
+   "citations": 0,
+   "refereed": false
   },
   {
    "bibcode": "2023BAAA...64..220L",
@@ -264,20 +378,22 @@
    ],
    "position": 1,
    "year": "2023",
-   "pubdate": "2023-05-29",
+   "pubdate": "2023-08-00",
    "pub": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
    "volume": "64",
    "page": "220",
-   "doctype": "eprint",
-   "doi": null,
+   "doctype": "article",
+   "doi": "10.48550/arXiv.2305.18629",
    "arxiv": "2305.18629",
    "ids": [
     "2023BAAA...64..220L",
+    "10.48550/arXiv.2305.18629",
+    "2023arXiv230518629L",
     "arXiv:2305.18629"
    ],
-   "abstract": "The presence of supermassive black holes at redshift z > 6 raises some questions about their formation and growth in the early universe. Due to the construction of new telescopes like the ELT to observe and detect SMBHs, it will be useful to derive theoretical estimates for the population and to compare observations and model predictions in the future. In consequence our main goal is to estimate the population of SMBHs using a semi-analytic code known as Galacticus which is a code for the formation and evolution of galaxies where we are about to include different scenarios for SMBHs formation indicating the initial mass of the black hole seed, its formation conditions and recipes for the evolution of the components of the galaxies. We found that the principal mechanism of growing SMBHs is is via galaxy mergers and accretion of matter. For the comparison of our results with observations, we calculate the radius of influence of the black hole to estimate which part of the population could be detected, leading to relations similar to the observed ones.",
-   "citations": null,
-   "refereed": null
+   "abstract": "The presence of supermassive black holes at redshift z&gt;6 raises some questions about their formation and growth in the early universe. Due to the construction of new telescopes like the ELT to observe and detect SMBHs, it will be useful to derive theoretical estimates for the population and to compare observations and model predictions in the future. In consequence our main goal is to estimate the population of SMBHs using a semi-analytic code known as GALACTICUS which is a code for the formation and evolution of galaxies where we are about to include different scenarios for SMBHs formation indicating the initial mass of the black hole seed, its formation conditions and recipes for the evolution of the components of the galaxies. We found that the principal mechanism of growing SMBHs is is via galaxy mergers and accretion of matter. For the comparison of our results with observations, we calculate the radius of influence of the black hole to estimate which part of the population could be detected, leading to relations similar to the observed ones.",
+   "citations": 1,
+   "refereed": true
   }
  ]
 }
